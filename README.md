@@ -1,4 +1,4 @@
-# Assignment
+# MySQL The Sakila DB
 
 ## Installation Instructions
 
